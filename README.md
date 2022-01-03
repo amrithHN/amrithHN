@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amrithHN
 - 👀 I’m interested in Linux,C++,Python and Cats :-)
-- 🌱 I’m currently learning Haskell, stm32 cortex m3/m4, avr 8bit
+- 🌱 I’m currently learning kivy, stm32 cortex m3/m4 , Godot
 - 💞️ I’m looking to collaborate on anything 
 - 📫 How to reach me 
 
