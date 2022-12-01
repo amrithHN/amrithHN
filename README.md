@@ -3,8 +3,11 @@
 - 🌱 I’m currently learning kivy, stm32 cortex m3/m4 , Godot
 - 💞️ I’m looking to collaborate on anything 
 - 📫 How to reach me https://www.linkedin.com/in/amrithhn/
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amrithHN&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amrithHN&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amrithHN&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)  
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amrithHN&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)  
+ 
+ [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=amrithHN&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 amrithHN/amrithHN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
