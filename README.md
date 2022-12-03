@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @amrithHN
-- 👀 I’m interested in Linux,C++,Python and Cats :-)
+- 👀 I’m interested in Linux, C++, Python and Cats 🐈 
 - 🌱 I’m currently learning kivy, stm32 cortex m3/m4 , Godot
 - 💞️ I’m looking to collaborate on anything 
-- 📫 How to reach me https://www.linkedin.com/in/amrithhn/
+- 📫 How to reach me ? 👉🏽 https://www.linkedin.com/in/amrithhn/
   
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amrithHN&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)  
  
