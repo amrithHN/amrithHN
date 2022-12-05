@@ -9,6 +9,9 @@
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amrithHN&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)  
  
+ [![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
+ [![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
+ 
 
 
 <!---
