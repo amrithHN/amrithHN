@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anything 
 - 📫 How to reach me ? 👉🏽 https://www.linkedin.com/in/amrithhn/
 - My Blog : https://armphibian.wordpress.com/
-- Notes : https://amriths-harijayanthan.gitbook.io/notes/
+- Notes : https://amriths-harijayanthan.gitbook.io/notes/ (P.S. Contact me if you want to contribute! )
   
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amrithHN&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)  
  
