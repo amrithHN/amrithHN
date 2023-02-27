@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amrithHN
 - 👀 I’m interested in Linux, C++, Python and Cats 🐈 
-- 🌱 I’m currently  stm32 cortex m3/m4 , Game engine etc
+- 🌱 I’m currently interested in stm32 cortex m , FreeRTOS etc
 - 💞️ I’m looking to collaborate on anything 
 - 📫 How to reach me ? 👉🏽 https://www.linkedin.com/in/amrithhn/
 - My Blog : https://armphibian.wordpress.com/
